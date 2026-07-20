@@ -8,7 +8,7 @@ Randall's a native of Miamisburg, Ohio, who's spent decades building a career in
 
 ## Questions
 
-If Questions about the site: Fisher Armstrong, Developer @ [FishTankTech@Gmail.com](mailto:FishTankTech@Gmail.com)
-If Questions about Randall: Randall Haynes, Performer @ [rdhtrumpet@gmail.com](mailto:rdhtrumpet@gmail.com)
+- If Questions about the site: Fisher Armstrong, Developer @ [FishTankTech@Gmail.com](mailto:FishTankTech@Gmail.com)
+- If Questions about Randall: Randall Haynes, Performer @ [rdhtrumpet@gmail.com](mailto:rdhtrumpet@gmail.com)
 
 Designed and built under FishTankTech.
