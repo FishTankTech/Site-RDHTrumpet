@@ -1,6 +1,6 @@
 This repository contains the source for Dr. Randall Haynes' professional website.
 
-The site functions as a hub for his work as a freelance trumpet performer and instructor based in Franklin, TN — covering solo performance, private lessons, masterclasses, and ensemble work throughout North America and Europe.
+---
 
 ## About Randall
 
